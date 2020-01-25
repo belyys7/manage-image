@@ -13,6 +13,6 @@ class TestManageImage
 
     public function getName()
     {
-        return $this->name;
+        return $this->name . ' - test next commit';
     }
 }
