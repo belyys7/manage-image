@@ -1,0 +1,15 @@
+{
+    "name": "belyys7/manage-image",
+    "authors": [
+        {
+            "name": "belyylion",
+            "email": "sergey.belyy.lion@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
