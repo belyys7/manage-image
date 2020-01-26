@@ -13,6 +13,6 @@ class TestManageImage
 
     public function getName()
     {
-        return $this->name . ' - with tag';
+        return $this->name . ' - commit 2';
     }
 }
